@@ -1,2 +1,2 @@
 # skull-ascii
-cool skull
+cool skulls
